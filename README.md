@@ -1,4 +1,3 @@
-<alert>New version is getting released tomorrow</alert>
 # ServerOS
 Every build of ServerOS
 
